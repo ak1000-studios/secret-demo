@@ -1,2 +1,0 @@
-# secret-demo
-pre-alpha
